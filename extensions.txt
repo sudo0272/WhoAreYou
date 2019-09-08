@@ -1,0 +1,518 @@
+*\41435344\AOL parameter|info files
+*\62706C697374\Binary property list (plist)
+*\001400000102\BIOS details in RAM
+*\3037303730\cpio archive
+*\7F454C46\ELF executable
+*\A1B2CD34\Extended tcpdump (libpcap) capture file
+*\04000000\INFO2 Windows recycle bin_1
+*\05000000\INFO2 Windows recycle bin_2
+*\ACED\Java serialization data
+*\4B57414A88F027D1\KWAJ (compressed) file
+*\CD20AAAA02000000\NAV quarantined virus file
+*\535A2088F02733D1\QBASIC SZDD file
+*\6F3C\SMS text (SIM)
+*\535A444488F02733\SZDD file format
+*\A1B2C3D4\tcpdump (libpcap) capture file
+*\34CDB2A1\Tcpdump capture file
+*\EFBBBF\UTF8 file
+*\FEFF\UTF-16|UCS-2 file
+*\FFFE0000\UTF-32|UCS-4 file
+*\626567696E\UUencoded file
+*\D4C3B2A1\WinDump (winpcap) capture file
+*\37E45396C9DBD607\zisofs compressed file
+123\00001A00051004\Lotus 1-2-3 (v9)
+386\4D5A\Windows virtual device drivers
+3GP\0000001466747970\3GPP multimedia files
+3GP\0000002066747970\3GPP2 multimedia files
+3GP5\0000001866747970\MPEG-4 video files
+4XM\52494646\4X Movie video
+7Z\377ABCAF271C\7-Zip compressed file
+ABA\00014241\Palm Address Book Archive
+ABD\5157205665722E20\ABD | QSD Quicken data file
+ABI\414F4C494E444558\AOL address book index
+ABI\414F4C\AOL config files
+ABY\414F4C4442\AOL address book
+ABY\414F4C\AOL config files
+AC\72696666\Sonic Foundry Acid Music File
+ACCDB\000100005374616E6461726420414345204442\Microsoft Access 2007
+ACM\4D5A\MS audio compression manager driver
+ACS\C3ABCDAB\MS Agent Character file
+AC_\D0CF11E0A1B11AE1\CaseWare Working Papers
+AD\5245564E554D3A2C\Antenna data file
+ADF\444F53\Amiga disk file
+ADP\D0CF11E0A1B11AE1\Access project file
+ADX\0300000041505052\Approach index file
+ADX\80000020031204\Dreamcast audio
+AIFF\464F524D00\Audio Interchange File
+AIN\2112\AIN Compressed Archive
+AMR\2321414D52\Adaptive Multi-Rate ACELP Codec (GSM)
+ANI\52494646\Windows animated cursor
+API\4D5A900003000000\Acrobat plug-in
+APR\D0CF11E0A1B11AE1\Lotus|IBM Approach 97 file
+ARC\41724301\FreeArc compressed file
+ARC\1A02\LH archive (old vers.|type 1)
+ARC\1A03\LH archive (old vers.|type 2)
+ARC\1A04\LH archive (old vers.|type 3)
+ARC\1A08\LH archive (old vers.|type 4)
+ARC\1A09\LH archive (old vers.|type 5)
+ARJ\60EA\ARJ Compressed archive file
+ARL\D42A\AOL history|typed URL files
+ASF\3026B2758E66CF11\Windows Media Audio|Video File
+AST\5343486C\Underground Audio
+ASX\3C\Advanced Stream Redirector
+AU\646E732E\Audacity audio file
+AU\2E736E64\NeXT|Sun Microsystems audio file
+AUT\D42A\AOL history|typed URL files
+AVI\52494646\Resource Interchange File Format
+AW\8A0109000000E108\MS Answer Wizard
+AX\4D5A900003000000\DirectShow filter
+AX\4D5A\Library cache file
+BAG\414F4C2046656564\AOL and AIM buddy list
+BAG\414F4C\AOL config files
+BDR\5854\MS Publisher
+BIN\424C4932323351\Speedtouch router firmware
+BMP\424D\Bitmap image
+BZ2\425A68\bzip2 compressed archive
+CAB\49536328\Install Shield compressed file
+CAB\4D534346\Microsoft cabinet file
+CAL\737263646F636964\CALS raster bitmap
+CAL\537570657243616C\SuperCalc worksheet
+CAL\B5A2B0B3B3B0A5B5\Windows calendar
+CAP\58435000\Packet sniffer files
+CAP\52545353\WinNT Netmon capture file
+CAS\5F434153455F\EnCase case file
+CAT\30\MS security catalog file
+CBD\434246494C45\WordPerfect dictionary
+CBK\5F434153455F\EnCase case file
+CDA\52494646\Resource Interchange File Format
+CDR\52494646\CorelDraw document
+CDR\454C49544520436F\Elite Plus Commander game file
+CDR\4D535F564F494345\Sony Compressed Voice File
+CFG\5B666C7473696D2E\Flight Simulator Aircraft Configuration
+CHI\49545346\MS Compiled HTML Help File
+CHM\49545346\MS Compiled HTML Help File
+CLASS\CAFEBABE\Java bytecode
+CLB\434F4D2B\COM+ Catalog
+CLB\434D5831\Corel Binary metafile
+CMX\52494646\Corel Presentation Exchange metadata
+CNV\53514C4F434F4E56\DB2 conversion file
+COD\4E616D653A20\Agent newsreader character map
+COM\4D5A\Windows|DOS executable file
+COM\E8\Windows executable file_1
+COM\E9\Windows executable file_2
+COM\EB\Windows executable file_3
+CPE\464158434F564552\MS Fax Cover Sheet
+CPI\53494554524F4E49\Sietronics CPI XRD document
+CPI\FF464F4E54\Windows international code page
+CPL\4D5A\Control panel application
+CPL\DCDC\Corel color palette
+CPT\4350543746494C45\Corel Photopaint file_1
+CPT\43505446494C45\Corel Photopaint file_2
+CPX\5B57696E646F7773\Microsoft Code Page Translation file
+CRU\43525553482076\Crush compressed archive
+CRW\49491A0000004845\Canon RAW file
+CSH\6375736800000002\Photoshop Custom Shape
+CTF\436174616C6F6720\WhereIsIt Catalog
+CTL\56455253494F4E20\Visual Basic User-defined Control file
+CUIX\504B0304\Customization files
+CUR\00000200\Windows cursor
+DAT\52494646\Video CD MPEG movie
+DAT\A90D000000000000\Access Data FTK evidence
+DAT\736C6821\Allegro Generic Packfile (compressed)
+DAT\736C682E\Allegro Generic Packfile (uncompressed)
+DAT\415647365F496E74\AVG6 Integrity database
+DAT\03\MapInfo Native Data Format
+DAT\4552465353415645\EasyRecovery Saved State file
+DAT\436C69656E742055\IE History file
+DAT\496E6E6F20536574\Inno Setup Uninstall Log
+DAT\504E4349554E444F\Norton Disk Doctor undo file
+DAT\50455354\PestPatrol data|scan strings
+DAT\1A52545320434F4D\Runtime Software disk image
+DAT\52415A4154444231\Shareaza (P2P) thumbnail
+DAT\4E41565452414646\TomTom traffic data
+DAT\55464F4F72626974\UFO Capture map file
+DAT\574D4D50\Walkman MP3 file
+DAT\43524547\Win9x registry hive
+DAT\72656766\WinNT registry file
+DB\D0CF11E0A1B11AE1\MSWorks database file
+DB\08\dBASE IV or dBFast configuration file
+DB\0006156100000002000004D200001000\Netscape Navigator (v4) database
+DB\44424648\Palm Zire photo database
+DB\53514C69746520666F726D6174203300\SQLite database file
+DB\FDFFFFFF\Thumbs.db subheader
+DB3\03\dBASE III file
+DB4\04\dBASE IV file
+DBA\00014244\Palm DateBook Archive
+DBB\6C33336C\Skype user data file
+DBF\4F504C4461746162\Psion Series 3 Database
+DBX\CFAD12FE\Outlook Express e-mail folder
+DCI\3C21646F63747970\AOL HTML mail
+DCX\B168DE3A\PCX bitmap
+dex\6465780A30303900\Dalvik (Android) executable file
+DIB\424D\Bitmap image
+DLL\4D5A\Windows|DOS executable file
+DMG\78\MacOS X image file
+DMP\4D444D5093A7\Windows dump file
+DMP\504147454455\Windows memory dump
+DMS\444D5321\Amiga DiskMasher compressed archive
+DOC\D0CF11E0A1B11AE1\Microsoft Office document
+DOC\0D444F43\DeskMate Document
+DOC\CF11E0A1B11AE100\Perfect Office document
+DOC\DBA52D00\Word 2.0 file
+DOC\ECA5C100\Word document subheader
+DOCX\504B0304\MS Office Open XML Format Document
+DOCX\504B030414000600\MS Office 2007 documents
+DOT\D0CF11E0A1B11AE1\Microsoft Office document
+DRV\4D5A\Windows|DOS executable file
+DRW\07\Generic drawing programs
+DRW\01FF02040302\Micrografx vector graphic file
+DS4\52494646\Micrografx Designer graphic
+DSN\4D56\CD Stomper Pro label file
+DSP\23204D6963726F73\MS Developer Studio project file
+DSS\02647373\Digital Speech Standard file
+DSW\64737766696C65\MS Visual Studio workspace file
+DTD\0764743264647464\DesignTools 2D Design file
+DUN\5B50686F6E655D\Dial-up networking file
+DVF\4D535F564F494345\Sony Compressed Voice File
+DVR\445644\DVR-Studio stream file
+DW4\4F7B\Visio|DisplayWrite 4 text file
+DWG\41433130\Generic AutoCAD drawing
+E01\455646090D0AFF00\Expert Witness Compression Format
+E01\4C5646090D0AFF00\Logical File Evidence Format
+ECF\5B47656E6572616C\MS Exchange configuration file
+EFX\DCFE\eFax file
+EML\582D\Exchange e-mail
+EML\52657475726E2D50\Generic e-mail_1
+EML\46726F6D\Generic e-mail_2
+ENL\40404020000040404040\EndNote Library File
+EPS\C5D0D3C6\Adobe encapsulated PostScript
+EPS\252150532D41646F\Encapsulated PostScript file
+ETH\1A350100\WinPharoah capture file
+EVT\300000004C664C65\Windows Event Viewer file
+EVTX\456C6646696C6500\Windows Vista event log
+EXE\4D5A\Windows|DOS executable file
+FDF\25504446\PDF file
+FLAC\664C614300000022\Free Lossless Audio Codec file
+FLI\0011\FLIC animation
+FLT\4D5A900003000000\Audition graphic filter
+FLT\76323030332E3130\Qimage filter
+FLV\464C56\Flash video file
+FM\3C4D616B65724669\Adobe FrameMaker
+FON\4D5A\Font file
+FTR\D20A0000\WinPharoah filter file
+GHO\FEEF\Symantex Ghost image file
+GHS\FEEF\Symantex Ghost image file
+GID\3F5F0300\Windows Help file_2
+GID\4C4E0200\Windows help file_3
+GIF\47494638\GIF file
+GPG\99\GPG public keyring
+GRP\504D4343\Windows Program Manager group file
+GX2\475832\Show Partner graphics file
+GZ\1F8B08\GZIP archive file
+HAP\91334846\Hamarsoft compressed archive
+HDMP\4D444D5093A7\Windows dump file
+HDR\49536328\Install Shield compressed file
+HDR\233F52414449414E\Radiance High Dynamic Range image file
+hip\48695021\Houdini image file. Three-dimensional modeling and animation
+HLP\0000FFFFFFFF\Windows Help file_1
+HLP\3F5F0300\Windows Help file_2
+HLP\4C4E0200\Windows help file_3
+HQX\2854686973206669\BinHex 4 Compressed Archive
+ICO\00000100\Windows icon|printer spool file
+IDX\414F4C4442\AOL user configuration
+IDX\414F4C\AOL config files
+IDX\5000000020000000\Quicken QuickFinder Information File
+IFO\445644\DVD info file
+IMG\504943540008\ChromaGraph Graphics Card Bitmap
+IMG\EB3C902A\GEM Raster file
+IMG\53434D49\Img Software Bitmap
+IND\414F4C494458\AOL client preferences|settings file
+IND\414F4C\AOL config files
+INFO\E310000100000000\Amiga icon
+INFO\5468697320697320\GNU Info Reader file
+INFO\7A626578\ZoomBrowser Image Index
+ISO\4344303031\ISO-9660 CD Disc Image
+IVR\2E524543\RealPlayer video file (V11+)
+JAR\504B0304\Java archive_1
+JAR\5F27A889\Jar archive
+JAR\4A4152435300\JARCS compressed archive
+JAR\504B030414000800\Java archive_2
+JFIF\FFD8FFE0\JPEG IMAGE
+JFIF\FFD8FFE0\JFIF IMAGE FILE - jpeg
+JG\4A47030E\AOL ART file_1
+JG\4A47040E\AOL ART file_2
+JNT\4E422A00\MS Windows journal
+JP2\0000000C6A502020\JPEG2000 image files
+JPE\FFD8FFE0\JPEG IMAGE
+JPE\FFD8FFE0\JPE IMAGE FILE - jpeg
+JPEG\FFD8FFE0\JPEG IMAGE
+JPEG\FFD8FFE2\CANNON EOS JPEG FILE
+JPEG\FFD8FFE3\SAMSUNG D500 JPEG FILE
+JPG\FFD8FFE0\JPEG IMAGE
+JPG\FFD8FFE1\Digital camera JPG using Exchangeable Image File Format (EXIF)
+JPG\FFD8FFE8\Still Picture Interchange File Format (SPIFF)
+JTP\4E422A00\MS Windows journal
+KGB\4B47425F61726368\KGB archive
+KOZ\49443303000000\Sprint Music Store audio
+KWD\504B0304\KWord document
+LBK\C8007900\Jeppesen FliteLog file
+LGC\7B0D0A6F20\Windows application log
+LGD\7B0D0A6F20\Windows application log
+LHA\2D6C68\Compressed archive
+LIB\213C617263683E0A\Unix archiver (ar)|MS Program Library Common Object File Format (COFF)
+LIT\49544F4C49544C53\MS Reader eBook
+LNK\4C00000001140200\Windows shortcut file
+LOG\2A2A2A2020496E73\Symantec Wise Installer log
+LWP\576F726450726F\Lotus WordPro file
+LZH\2D6C68\Compressed archive
+M4A\00000020667479704D3441\Apple audio and video files
+MANIFEST\3C3F786D6C2076657273696F6E3D\Windows Visual Stylesheet
+MAR\4D41723000\MAr compressed archive
+MAR\4D415243\Microsoft|MSN MARC archive
+MAR\4D41523100\Mozilla archive
+MDB\000100005374616E64617264204A6574204442\Microsoft Access
+MDF\010F0000\SQL Data Base
+MDI\4550\MS Document Imaging file
+MID\4D546864\MIDI sound file
+MIDI\4D546864\MIDI sound file
+MIF\3C4D616B65724669\Adobe FrameMaker
+MIF\56657273696F6E20\MapInfo Interchange Format file
+MKV\1A45DFA393428288\Matroska stream file
+MLS\4D494C4553\Milestones project management file
+MLS\4D56323134\Milestones project management file_1
+MLS\4D563243\Milestones project management file_2
+MLS\4D4C5357\Skype localization data file
+MMF\4D4D4D440000\Yamaha Synthetic music Mobile Application Format
+MNY\000100004D534953414D204461746162617365\Microsoft Money file
+MOF\FFFE23006C006900\MSinfo file
+MOV\6D6F6F76\QuickTime movie_1
+MOV\66726565\QuickTime movie_2
+MOV\6D646174\QuickTime movie_3
+MOV\77696465\QuickTime movie_4
+MOV\706E6F74\QuickTime movie_5
+MOV\736B6970\QuickTime movie_6
+MP\0CED\Monochrome Picture TIFF bitmap
+MP3\494433\MP3 audio file
+MPG\000001BA\DVD video file
+MPG\000001B3\MPEG video file
+MSC\D0CF11E0A1B11AE1\Microsoft Common Console Document
+MSC\3C3F786D6C2076657273696F6E3D22312E30223F3E0D0A3C4D4D435F436F6E736F6C6546696C6520436F6E736F6C65566572\MMC Snap-in Control file
+MSI\D0CF11E0A1B11AE1\Microsoft Installer package
+MSI\2320\Cerius2 file
+MSV\4D535F564F494345\Sony Compressed Voice File
+MTW\D0CF11E0A1B11AE1\Minitab data file
+NRI\0E4E65726F49534F\Nero CD compilation
+NSF\1A0000040000\Lotus Notes database
+NSF\4E45534D1A01\NES Sound file
+NTF\1A0000\Lotus Notes database template
+NTF\4E49544630\National Imagery Transmission Format file
+NTF\30314F52444E414E\National Transfer Format Map
+NVRAM\4D52564E\VMware BIOS state file
+OBJ\4C01\MS COFF relocatable object code
+OBJ\80\Relocatable object code
+OCX\4D5A\ActiveX|OLE Custom Control
+ODP\504B0304\OpenDocument template
+ODT\504B0304\OpenDocument template
+OGA\4F67675300020000\Ogg Vorbis Codec compressed file
+OGG\4F67675300020000\Ogg Vorbis Codec compressed file
+OGV\4F67675300020000\Ogg Vorbis Codec compressed file
+OGX\4F67675300020000\Ogg Vorbis Codec compressed file
+OLB\4D5A\OLE object library
+ONE\E4525C7B8CD8A74D\MS OneNote note
+OPT\D0CF11E0A1B11AE1\Developer Studio File Options file
+OPT\FDFFFFFF20\Developer Studio subheader
+ORG\414F4C564D313030\AOL personal file cabinet
+OTT\504B0304\OpenDocument template
+P10\64000000\Intel PROset|Wireless Profile
+PAK\1A0B\PAK Compressed archive file
+PAK\5041434B\Quake archive file
+PAT\47504154\GIMP pattern file
+PAX\504158\PAX password protected bitmap
+PCH\564350434830\Visual C PreCompiled header
+PCX\0A050101\ZSOFT Paintbrush file_3
+PCX\0A030101\ZSOFT Paintbrush file_2
+PCX\0A020101\ZSOFT Paintbrush file_1
+PDB\4D6963726F736F667420432F432B2B20\MS C++ debugging symbols file
+PDB\4D2D5720506F636B\Merriam-Webster Pocket Dictionary
+PDB\ACED000573720012\BGBlitz position database file
+PDB\737A657A\PowerBASIC Debugger Symbols
+PDB\736D5F\PalmOS SuperMemo
+PDF\25504446\PDF file
+PF\1100000053434341\Windows prefetch file
+PFC\414F4C\AOL config files
+PFC\414F4C564D313030\AOL personal file cabinet
+PGD\504750644D41494E\PGP disk image
+PGM\50350A\Portable Graymap Graphic
+PIF\4D5A\Windows|DOS executable file
+PKR\9901\PGP public keyring
+PNG\89504E470D0A1A0A\PNG image
+PPS\D0CF11E0A1B11AE1\Microsoft Office document
+PPT\FDFFFFFF43000000\PowerPoint presentation subheader_6
+PPT\FDFFFFFF1C000000\PowerPoint presentation subheader_5
+PPT\D0CF11E0A1B11AE1\Microsoft Office document
+PPT\FDFFFFFF0E000000\PowerPoint presentation subheader_4
+PPT\A0461DF0\PowerPoint presentation subheader_3
+PPT\0F00E803\PowerPoint presentation subheader_2
+PPT\006E1EF0\PowerPoint presentation subheader_1
+PPTX\504B0304\MS Office Open XML Format Document
+PPTX\504B030414000600\MS Office 2007 documents
+PPZ\4D534346\Powerpoint Packaged Presentation
+PRC\74424D504B6E5772\PathWay Map file
+PRC\424F4F4B4D4F4249\Palmpilot resource file
+PSD\38425053\Photoshop image
+PSP\7E424B00\Corel Paint Shop Pro image
+PUB\D0CF11E0A1B11AE1\MS Publisher file
+PWI\7B5C707769\MS WinMobile personal note
+PWL\E3828596\Win98 password file
+PWL\B04D4643\Win95 password file
+QBB\458600000600\QuickBooks backup
+QCP\52494646\Resource Interchange File Format
+QDF\AC9EBD8F0000\QDF Quicken data
+QEL\51454C20\QDL Quicken data
+QEMU\514649\Qcow Disk Image
+QPH\03000000\Quicken price history
+QSD\5157205665722E20\ABD | QSD Quicken data file
+QTS\4D5A\Windows|DOS executable file
+QTX\4D5A\Windows|DOS executable file
+QXD\00004D4D585052\Quark Express (Motorola)
+QXD\00004949585052\Quark Express (Intel)
+RA\2E7261FD00\RealAudio streaming media
+RA\2E524D4600000012\RealAudio file
+RAM\727473703A2F2F\RealMedia metafile
+RAR\526172211A0700\WinRAR compressed archive
+REG\52454745444954\WinNT Registry|Registry Undo files
+REG\FFFE\Windows Registry file
+RGB\01DA01010003\Silicon Graphics RGB Bitmap
+RM\2E524D46\RealMedia streaming media
+RMI\52494646\Resource Interchange File Format
+RMVB\2E524D46\RealMedia streaming media
+RPM\EDABEEDB\RedHat Package Manager
+RTD\43232B44A4434DA5\RagTime document
+RTF\7B5C72746631\RTF file
+RVT\D0CF11E0A1B11AE1\Revit Project file
+SAM\5B7665725D\Lotus AMI Pro document_2
+SAM\5B5645525D\Lotus AMI Pro document_1
+SAV\24464C3240282329\SPSS Data file
+SCR\4D5A\Screen saver
+SDR\534D415254445257\SmartDraw Drawing file
+SH3\4848474231\Harvard Graphics presentation file
+SHD\67490000\Win2000|XP printer spool file
+SHD\4B490000\Win9x printer spool file
+SHD\66490000\WinNT printer spool file
+SHD\68490000\Win Server 2003 printer spool file
+SHW\53484F57\Harvard Graphics presentation
+SIT\5374756666497420\StuffIt compressed archive
+SIT\5349542100\StuffIt archive
+SKF\07534B46\SkinCrafter skin
+SKR\9501\PGP secret keyring_2
+SKR\9500\PGP secret keyring_1
+SLE\3A56455253494F4E\Surfplan kite project file
+SLE\414376\Steganos virtual secure drive
+SLN\4D6963726F736F66742056697375616C\Visual Studio .NET file
+SNM\001E849000000000\Netscape Communicator (v4) mail folder
+SNP\4D534346\MS Access Snapshot Viewer file
+SOU\D0CF11E0A1B11AE1\Visual Studio Solution User Options file
+SPL\00000100\Windows icon|printer spool file
+SPO\D0CF11E0A1B11AE1\SPSS output file
+SUD\52454745444954\WinNT Registry|Registry Undo files
+SUO\FDFFFFFF04\Visual Studio Solution subheader
+SWF\465753\Shockwave Flash player
+SWF\435753\Shockwave Flash file
+SXC\504B0304\StarOffice spreadsheet
+SXD\504B0304\OpenOffice documents
+SXI\504B0304\OpenOffice documents
+SXW\504B0304\OpenOffice documents
+SYS\FF\Windows executable
+SYS\EB\Windows executable file_3
+SYS\E9\Windows executable file_2
+SYS\E8\Windows executable file_1
+SYS\FF4B455942202020\Keyboard driver file
+SYS\4D5A\Windows|DOS executable file
+SYS\FFFFFFFF\DOS system driver
+SYW\414D594F\Harvard Graphics symbol graphic
+TAR\7573746172\Tape Archive
+TAR.BZ2\425A68\bzip2 compressed archive
+TAR.Z\1FA0\Compressed tape archive_2
+TAR.Z\1F9D90\Compressed tape archive_1
+TB2\425A68\bzip2 compressed archive
+TBZ2\425A68\bzip2 compressed archive
+TIB\B46E6844\Acronis True Image
+TIF\4D4D002A\TIFF file_3
+TIF\49492A00\TIFF file_2
+TIF\492049\TIFF file_1
+TIF\4D4D002B\TIFF file_4
+TIFF\49492A00\TIFF file_2
+TIFF\492049\TIFF file_1
+TIFF\4D4D002B\TIFF file_4
+TIFF\4D4D002A\TIFF file_3
+TLB\4D53465402000100\OLE|SPSS|Visual C++ library file
+TR1\0110\Novell LANalyzer capture file
+UCE\55434558\Unicode extensions
+UFA\554641C6D2C1\UFA compressed archive
+VBX\4D5A\VisualBASIC application
+VCD\454E545259564344\VideoVCD|VCDImager file
+VCF\424547494E3A5643\vCard
+VCW\5B4D535643\Visual C++ Workbench Info File
+VHD\636F6E6563746978\Virtual PC HD image
+VMDK\4B444D\VMware 4 Virtual Disk
+VMDK\23204469736B2044\VMware 4 Virtual Disk description
+VMDK\434F5744\VMware 3 Virtual Disk
+VOB\000001BA\DVD video file
+VSD\D0CF11E0A1B11AE1\Visio file
+VXD\4D5A\Windows virtual device drivers
+WAB\813284C18505D011\Outlook Express address book (Win95)
+WAB\9CCBCB8D1375D211\Outlook address file
+WAV\52494646\Resource Interchange File Format
+WB2\00000200\QuattroPro spreadsheet
+WB3\3E000300FEFF090006\Quatro Pro for Windows 7.0
+WIZ\D0CF11E0A1B11AE1\Microsoft Office document
+WK1\0000020006040600\Lotus 1-2-3 (v1)
+WK3\00001A0000100400\Lotus 1-2-3 (v3)
+WK4\00001A0002100400\Lotus 1-2-3 (v4|v5)
+WK5\00001A0002100400\Lotus 1-2-3 (v4|v5)
+WKS\0E574B53\DeskMate Worksheet
+WKS\FF00020004040554\Works for Windows spreadsheet
+WMA\3026B2758E66CF11\Windows Media Audio|Video File
+WMF\D7CDC69A\Windows graphics metafile
+WMV\3026B2758E66CF11\Windows Media Audio|Video File
+WMZ\504B0304\Windows Media compressed skin file
+WP\FF575043\WordPerfect text and graphics
+WP5\FF575043\WordPerfect text and graphics
+WP6\FF575043\WordPerfect text and graphics
+WPD\FF575043\WordPerfect text and graphics
+WPF\81CDAB\WordPerfect text
+WPG\FF575043\WordPerfect text and graphics
+WPL\4D6963726F736F66742057696E646F7773204D6564696120506C61796572202D2D20\Windows Media Player playlist
+WPP\FF575043\WordPerfect text and graphics
+WPS\D0CF11E0A1B11AE1\MSWorks text document
+WRI\BE000000AB\MS Write file_3
+WRI\32BE\MS Write file_2
+WRI\31BE\MS Write file_1
+WS\1D7D\WordStar Version 5.0|6.0 document
+WS2\575332303030\WordStar for Windows file
+XDR\3C\BizTalk XML-Data Reduced Schema
+XLA\D0CF11E0A1B11AE1\Microsoft Office document
+XLS\FDFFFFFF10\Excel spreadsheet subheader_2
+XLS\0908100000060500\Excel spreadsheet subheader_1
+XLS\FDFFFFFF29\Excel spreadsheet subheader_7
+XLS\FDFFFFFF28\Excel spreadsheet subheader_6
+XLS\FDFFFFFF23\Excel spreadsheet subheader_5
+XLS\D0CF11E0A1B11AE1\Microsoft Office document
+XLS\FDFFFFFF22\Excel spreadsheet subheader_4
+XLS\FDFFFFFF1F\Excel spreadsheet subheader_3
+XLSX\504B0304\MS Office Open XML Format Document
+XLSX\504B030414000600\MS Office 2007 documents
+XML\3C3F786D6C2076657273696F6E3D22312E30223F3E\User Interface Language
+XPI\504B0304\Mozilla Browser Archive
+XPS\504B0304\XML paper specification file
+XPT\504B0304\eXact Packager Models
+XPT\5850434F4D0A5479\XPCOM libraries
+ZAP\4D5A90000300000004000000FFFF\ZoneAlam data file
+ZIP\504B030414000100\ZLock Pro encrypted ZIP
+ZIP\504B0708\PKZIP archive_3
+ZIP\504B0506\PKZIP archive_2
+ZIP\504B0304\PKZIP archive_1
+ZIP\504B537058\PKSFX self-extracting archive
+ZIP\504B4C495445\PKLITE archive
+ZIP\57696E5A6970\WinZip compressed archive
+ZOO\5A4F4F20\ZOO compressed archive
