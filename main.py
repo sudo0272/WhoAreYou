@@ -30,15 +30,21 @@ for i in range(22, len(data)):  # remove *
         if j == signatureLength - 1:  # if first part is same
             candidates.append(i)
 
-maxLengthCandidateIndex = 0
+maxLengthCandidateIndex = candidates[0]
 
-for i in range(1, len(candidates)):
-    if len(data[candidates[i]][1]) > len(data[candidates[maxLengthCandidateIndex]][1]):
+for i in candidates:
+    if len(data[i][1]) > len(data[maxLengthCandidateIndex][1]):
         maxLengthCandidateIndex = i
 
 maxLengthCandidates = []
-maxLengthCandidateLength = len(data[candidates[maxLengthCandidateIndex]][1])
-for i in range(candidates):
-    if len(data[candidates[i]][1]) == maxLengthCandidateLength:
+maxLengthCandidateLength = len(data[maxLengthCandidateIndex][1])
+for i in candidates:
+    if len(data[i][1]) == maxLengthCandidateLength:
         maxLengthCandidates.append(i)
 
+
+print(targetFile, 'can be:')
+for i in maxLengthCandidates:
+    print('  ', data[i][0])
+    print('    ', data[i][1])
+    print('    ', data[i][2])  # don't need '\n' because data[i][2] wasn't stripped
