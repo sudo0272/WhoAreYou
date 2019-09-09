@@ -19,7 +19,7 @@ sampleLength = len(sample)
 
 candidates = []
 
-for i in range(len(data)):
+for i in range(22, len(data)):  # remove *
     signatureLength = len(data[i][1])
     
     if signatureLength <= sampleLength:
@@ -29,3 +29,16 @@ for i in range(len(data)):
         
         if j == signatureLength - 1:  # if first part is same
             candidates.append(i)
+
+maxLengthCandidateIndex = 0
+
+for i in range(1, len(candidates)):
+    if len(data[candidates[i]][1]) > len(data[candidates[maxLengthCandidateIndex]][1]):
+        maxLengthCandidateIndex = i
+
+maxLengthCandidates = []
+maxLengthCandidateLength = len(data[candidates[maxLengthCandidateIndex]][1])
+for i in range(candidates):
+    if len(data[candidates[i]][1]) == maxLengthCandidateLength:
+        maxLengthCandidates.append(i)
+
