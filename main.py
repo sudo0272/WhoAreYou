@@ -32,7 +32,7 @@ sampleLength = len(sample)
 
 candidates = []
 
-for i in range(22, len(data)):  # remove *
+for i in range(len(data)):  # remove *
     signatureLength = len(data[i][1])
     
     if signatureLength <= sampleLength:
@@ -64,8 +64,4 @@ if len(candidates) != 0:  # if no candidates found
         print('    ', data[i][2])  # don't need '\n' because data[i][2] wasn't stripped
 
 else:
-    print(targetFile, 'can be:')
-    for i in range(22):
-        print('  ', data[i][0])
-        print('    ', data[i][1])
-        print('    ', data[i][2])  # don't need '\n' because data[i][2] wasn't stripped
+    print(targetFile, '\'s extension was not found')
