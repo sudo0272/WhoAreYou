@@ -1,8 +1,9 @@
 import sys
 
+targetFile = sys.argv[1]
+
 db = open('./extensions.txt')
 
-targetFile = sys.argv[1]
 target = open(targetFile, 'rb')
 
 data = list(i.split('\\') for i in db.readlines())
