@@ -43,21 +43,29 @@ for i in range(22, len(data)):  # remove *
         if j == signatureLength - 1:  # if first part is same
             candidates.append(i)
 
-maxLengthCandidateIndex = candidates[0]
+if len(candidates) != 0:  # if no candidates found
+    maxLengthCandidateIndex = candidates[0]
 
-for i in candidates:
-    if len(data[i][1]) > len(data[maxLengthCandidateIndex][1]):
-        maxLengthCandidateIndex = i
+    for i in candidates:
+        if len(data[i][1]) > len(data[maxLengthCandidateIndex][1]):
+            maxLengthCandidateIndex = i
 
-maxLengthCandidates = []
-maxLengthCandidateLength = len(data[maxLengthCandidateIndex][1])
-for i in candidates:
-    if len(data[i][1]) == maxLengthCandidateLength:
-        maxLengthCandidates.append(i)
+    maxLengthCandidates = []
+    maxLengthCandidateLength = len(data[maxLengthCandidateIndex][1])
+    for i in candidates:
+        if len(data[i][1]) == maxLengthCandidateLength:
+            maxLengthCandidates.append(i)
 
 
-print(targetFile, 'can be:')
-for i in maxLengthCandidates:
-    print('  ', data[i][0])
-    print('    ', data[i][1])
-    print('    ', data[i][2])  # don't need '\n' because data[i][2] wasn't stripped
+    print(targetFile, 'can be:')
+    for i in maxLengthCandidates:
+        print('  ', data[i][0])
+        print('    ', data[i][1])
+        print('    ', data[i][2])  # don't need '\n' because data[i][2] wasn't stripped
+
+else:
+    print(targetFile, 'can be:')
+    for i in range(22):
+        print('  ', data[i][0])
+        print('    ', data[i][1])
+        print('    ', data[i][2])  # don't need '\n' because data[i][2] wasn't stripped
