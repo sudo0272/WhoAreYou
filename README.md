@@ -9,4 +9,4 @@ Output:\
 &nbsp;&nbsp;/path/to/target_file can be:\
 &nbsp;&nbsp;&nbsp;&nbsp;extension\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;description\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;file signature\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;file signature
