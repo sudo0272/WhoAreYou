@@ -1,10 +1,22 @@
 import sys
 
-targetFile = sys.argv[1]
+try:
+    targetFile = sys.argv[1]
+except IndexError:  # no arguments got
+    print('Target file has not specified')
+    sys.exit()
 
-db = open('./extensions.txt')
+try:
+    db = open('./extensions.txt')
+except FileNotFoundError:
+    print('extensions.txt not found')
+    sys.exit()
 
-target = open(targetFile, 'rb')
+try:
+    target = open(targetFile, 'rb')
+except FileNotFoundError:
+    print(targetFile + ' not found')
+    sys.exit()
 
 data = list(i.split('\\') for i in db.readlines())
 
