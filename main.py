@@ -45,7 +45,7 @@ except FileNotFoundError:
 try:
     target = open(targetFile, 'rb')
 except FileNotFoundError:
-    print(targetFile + ' not found')
+    print('%s not found' % targetFile)
     sys.exit()
 
 data = []
@@ -88,11 +88,11 @@ if len(candidates) != 0:  # if no candidates found
             maxLengthCandidates.append(i)
 
 
-    print(targetFile, 'can be:')
+    print('%s can be:' % targetFile)
     for i in maxLengthCandidates:
-        print('  ', data[i][0])
-        print('    ', data[i][1])
-        print('    ', data[i][2])  # don't need '\n' because data[i][2] wasn't stripped
+        print('  %s' % data[i][0])
+        print('    %s' % data[i][1])
+        print('    %s' % data[i][2])
 
 else:
-    print(targetFile, '\'s extension was not found')
+    print('Extension of %s was not found' % targetFile)
