@@ -42,8 +42,6 @@ except FileNotFoundError:
         print('Internet not connected')
         sys.exit()
 
-
-
 try:
     target = open(targetFile, 'rb')
 except FileNotFoundError:
