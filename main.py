@@ -91,8 +91,8 @@ if len(candidates) != 0:  # if no candidates found
     print('%s can be:' % targetFile)
     for i in maxLengthCandidates:
         print('  %s' % data[i][0])
-        print('    %s' % data[i][1])
         print('    %s' % data[i][2])
+        print('    %s' % data[i][1])
 
 else:
     print('Extension of %s could not be found' % targetFile)
