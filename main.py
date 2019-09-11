@@ -48,9 +48,12 @@ except FileNotFoundError:
     print(targetFile + ' not found')
     sys.exit()
 
-data = list(i.split('\\') for i in db.readlines())
+data = []
+for i in db.readlines():
+    t = i.split('\\')
+    t[2] = t[2].rstrip()
 
-# print(data)
+    data.append(t)
 
 sample = target.read(50).hex()  # max length of file signature
                                 # MSC
@@ -58,11 +61,9 @@ sample = target.read(50).hex()  # max length of file signature
                                 # 3C3F786D6C2076657273696F6E3D22312E30223F3E0D0A3C4D4D435F436F6E736F6C6546696C6520436F6E736F6C65566572
 sampleLength = len(sample)
 
-# print(sample)
-
 candidates = []
 
-for i in range(len(data)):  # remove *
+for i in range(len(data)):
     signatureLength = len(data[i][1])
     
     if signatureLength <= sampleLength:
