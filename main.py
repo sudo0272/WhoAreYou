@@ -95,4 +95,4 @@ if len(candidates) != 0:  # if no candidates found
         print('    %s' % data[i][2])
 
 else:
-    print('Extension of %s was not found' % targetFile)
+    print('Extension of %s could not be found' % targetFile)
